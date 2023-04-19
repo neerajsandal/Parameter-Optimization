@@ -7,12 +7,12 @@ Link: https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation
 The main goal of our project was to investigate the effectiveness of Support Vector Machines (SVM) for classification problems and optimize SVM parameters. We used Python's Scikit-learn library to implement SVM models on the room occupancy Data Set, which was randomly divided into 10 samples for training and testing. By experimenting with different SVM parameter combinations, we identified the best settings for each sample. The results were recorded in a table that showcases the accuracy achieved for each sample, along with the corresponding SVM parameters that led to the highest accuracy. This table can serve as a valuable reference for future classification tasks that involve SVM parameter optimization.
 
 
-## Results 
-![image](https://user-images.githubusercontent.com/79656311/233172856-860ebc2e-0386-4403-9e3d-bb9527c32fa8.png)
+# Results 
+![image](https://user-images.githubusercontent.com/79656311/233173430-8166a7c8-fe98-45c4-bb9a-8d4f79947307.png)
 
 
-## Convergence Graph
+# Convergence Graph
 ![image](https://user-images.githubusercontent.com/79656311/233170296-cbe73e19-9eac-46b8-8152-8f8aa50861f6.png)
 
 
-##Sample 3 and Sample 9 has the best accuracy of 0.97.
+# Sample 3 and Sample 9 has the best accuracy of 0.97.
